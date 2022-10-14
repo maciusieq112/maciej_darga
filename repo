@@ -1,0 +1,3 @@
+$ git init repo
+$ cd repo
+$ git add README
